@@ -5,7 +5,7 @@
 A portfolio of work where you can get in contact, learn about me and view examples of my past work.
 
 ## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+Screenshot 2022-05-31 101000.png
 
 
 ## Usage
